@@ -32,24 +32,6 @@ WordCloud: Displays the most frequently used words in the dataset.
 Pie Chart: Shows the overall distribution of sentiments.
 
 
-## 📊 Results
-
-## WordCloud Output
-📌 A visualization of frequently used words in the dataset.
-
-![Screenshot 2024-10-28 233350](https://github.com/user-attachments/assets/36b2421d-6306-4878-9f7c-ae42849ba4ba)
-
-
-![Screenshot 2024-10-28 233407](https://github.com/user-attachments/assets/5c7be830-c7bc-46ed-bd40-505fa124effe)
-
-
-
-## Sentiment Distribution
-📊 Pie chart showing the proportion of positive, negative, and neutral sentiments.
-
-![Screenshot 2024-10-28 234409](https://github.com/user-attachments/assets/e687ad44-b4b8-4df7-9630-6f93a46a7201)
-
-
 
 ## 🚀 Future Improvements
 ✅ Expand the dataset to include more diverse responses.
